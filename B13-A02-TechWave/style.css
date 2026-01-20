@@ -225,7 +225,7 @@ body {
 .thumbnail {
     position: relative;
     height: 200px;
-    overflow: hidden; /* থাম্বনেইলের বাইরে কিছু যাবে না */
+    overflow: hidden; 
 }
 
 .thumbnail img, .thumbnail iframe { 
