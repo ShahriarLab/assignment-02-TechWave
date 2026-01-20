@@ -283,12 +283,12 @@ body {
      font-size: 1.2rem; }
 .social-icons i { 
     background: var(--gradient-main); 
-    -webkit-background-clip: text; 
+     
     -webkit-text-fill-color: transparent; 
     cursor: pointer;
 }
 
-/* Responsive Fix for Host Card */
+
 @media (max-width: 768px) {
     .host-card {
          flex-direction: column; 
@@ -298,6 +298,3 @@ body {
         justify-content: center; 
     }
 }
-
-
-
